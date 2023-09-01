@@ -9,7 +9,7 @@
 
 *IMPORTANT* Taking into account all these three points, we ask the user to follow these steps to run the scripts:
 
-    1) Upload the whole submission folder to your Google Drive
+    1) Upload the whole repo to your Google Drive
     
     2)
         - In case of running the demo.colab notebook:
@@ -90,7 +90,7 @@ NOTE ABOUT CONFIGURATION FILE: Before runnig any of the scripts, you can set up 
         * reproducibility = True #If the option is set to True, it forces reproducibility in the scripts data_loading.py, train.py and test.py.
 
    
-#RESOURCES used according to copyright rules
+## RESOURCES used according to copyright rules
 - Base code structure for the data_loading.py (including preprocessing), train.py and test.py scripts
     * https://debuggercafe.com/getting-started-with-facial-keypoint-detection-using-pytorch/
 - ResNet model Architecture implementation:
